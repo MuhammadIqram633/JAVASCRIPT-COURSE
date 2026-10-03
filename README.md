@@ -1,1 +1,1 @@
-This is my second day
+This is my second day of learning JAVASCRIPT
